@@ -1,0 +1,9 @@
+﻿D:\VISUAL STUDIO CODE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Demo.vcxproj, TestInstallSDL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Menu.cpp
+D:\LTNC_Visual\Geometry Dash\Menu.cpp(43,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC_Visual\Geometry Dash\Menu.cpp(45,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC_Visual\Geometry Dash\Menu.cpp(50,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC_Visual\Geometry Dash\Menu.cpp(52,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC_Visual\Geometry Dash\Menu.cpp(57,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC_Visual\Geometry Dash\Menu.cpp(59,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> D:\LTNC_Visual\Geometry Dash\Debug\DemoGMD_VC.exe
